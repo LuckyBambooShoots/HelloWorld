@@ -1,0 +1,1 @@
+print("🟡 Yellow World from Python")
